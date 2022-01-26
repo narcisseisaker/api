@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.dll-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dll-auto'"
+  },
+  {
+    "name": "DATABASE_TO_UPPER",
+    "type": "java.lang.String",
+    "description": "A description for 'DATABASE_TO_UPPER'"
+  },
+  {
+    "name": "DB_CLOSE_DELAY",
+    "type": "java.lang.String",
+    "description": "A description for 'DB_CLOSE_DELAY'"
+  },
+  {
+    "name": "DB_CLOSE_ON_EXIT",
+    "type": "java.lang.String",
+    "description": "A description for 'DB_CLOSE_ON_EXIT'"
+  }
+]}
